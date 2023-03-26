@@ -2,7 +2,7 @@
 
 - [About me](#about-me)
 - [Skills](#skills)
-- [Examples of test](#examples-of-test)
+- [Examples of test](#examples-of-my-test)
 
 ## About Me
 Saya Muhammad Budi Prasetyo, Sarjana Teknik Industri Universitas Telkom. Saya tertarik berkarir sebagai Software Quality Assurance. Aktivitas terakhir saat ini aktif sebagai pencari kerja dan mengambil beberapa pelatihan QA untuk menambah pengetahuan serta skill. Memiliki ketelitian dan motivasi diri yang sangat baik untuk bekerja dalam tim dan individu didukung dengan rasa inisiatif, bertanggung jawab dan mudah berdaptasi, menjadi keunggulan saya dapat saya kontribusikan untuk perusahaan.
