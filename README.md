@@ -37,3 +37,6 @@ __Automation testing__
   * can perfom automation testing with selenium
 
 ## Examples of my test
+
+Manual test on the ParaBank Website
+- Test Case for login : [Google Sheets Document](https://docs.google.com/spreadsheets/d/1qcapyyGzFMAYoTFpgLn1GkEIL0Z59PGBJR0poqVPVl8/edit#gid=0)
