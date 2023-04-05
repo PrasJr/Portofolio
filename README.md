@@ -21,7 +21,7 @@ Saya Muhammad Budi Prasetyo, Sarjana Teknik Industri Universitas Telkom. Saya te
 </details>
 
 ## Skills
-[Some test examples](Examples-of-my-test) that I have created with several methods.
+[Some test examples](#examples-of-my-test) that I have created with several methods.
 
 __Manual testing__
   * can perform manual functional and usability testing of web applications
