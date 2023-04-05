@@ -22,7 +22,7 @@ Saya Muhammad Budi Prasetyo, Sarjana Teknik Industri Universitas Telkom. Saya te
 
 - Pengalaman Kerja :
 <details>
-  <summary>Tambak Udang Vaname (Desember 2020 – Februari 2022) Teknisi Udang </summary>
+  <summary>Tambak Udang Vaname (Januari 2020 – Juni 2022) Teknisi Udang </summary>
   
  - Melakukan pengecekan kualitas air pada tambak udang.
  - Melakukan penginputan data pakan harian udang.
