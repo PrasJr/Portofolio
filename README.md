@@ -7,7 +7,7 @@
 ## About Me
 Saya Muhammad Budi Prasetyo, Sarjana Teknik Industri Universitas Telkom. Saya tertarik berkarir sebagai Software Quality Assurance. Aktivitas terakhir saat ini aktif sebagai pencari kerja dan mengambil beberapa pelatihan QA untuk menambah pengetahuan serta skill. Memiliki ketelitian dan motivasi diri yang sangat baik untuk bekerja dalam tim dan individu didukung dengan rasa inisiatif, bertanggung jawab dan mudah berdaptasi, menjadi keunggulan saya dapat saya kontribusikan untuk perusahaan.
 
-- Pengalaman Magang saya sebebagai berikut :
+- Pengalaman Magang :
 <details>
   <summary>PT PLN Persero (Juni 2017 – Agustus 2017) Divisi Pemasaran dan Pelayanan </summary>
   
@@ -20,12 +20,13 @@ Saya Muhammad Budi Prasetyo, Sarjana Teknik Industri Universitas Telkom. Saya te
 - Melakukan monitoring rebusan agar suhu tetap sesuai
 </details>
 
-- Pengalaman Kerja saya sebebagai berikut :
+- Pengalaman Kerja :
 <details>
   <summary>Tambak Udang Vaname (Desember 2020 – Februari 2022) Teknisi Udang </summary>
-  - Melakukan pengecekan kualitas air pada tambak udang.
-  - Melakukan penginputan data pakan harian udang.
-  - Melakukan pengontrolan napsu makan udang.
+  
+ - Melakukan pengecekan kualitas air pada tambak udang.
+ - Melakukan penginputan data pakan harian udang.
+ - Melakukan pengontrolan napsu makan udang.
 </details>
 
 ## Skills
