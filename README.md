@@ -39,4 +39,6 @@ __Automation testing__
 ## Examples of my test
 
 Manual test on the ParaBank Website
-- Test Case for login : [Google Sheets Document](https://docs.google.com/spreadsheets/d/1qcapyyGzFMAYoTFpgLn1GkEIL0Z59PGBJR0poqVPVl8/edit#gid=0)
+- Test Case for login and transfer funds : [Google Sheets Document](https://docs.google.com/spreadsheets/d/1qcapyyGzFMAYoTFpgLn1GkEIL0Z59PGBJR0poqVPVl8/edit#gid=0)
+Automation test on the ParaBank Website with Cucumber
+- Test Case for login : [Github Repositories](https://github.com/PrasJr/Automation-Test-Parabank/actions/runs/4498234955/jobs/7914614474)
