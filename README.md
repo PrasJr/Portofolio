@@ -20,8 +20,16 @@ Saya Muhammad Budi Prasetyo, Sarjana Teknik Industri Universitas Telkom. Saya te
 - Melakukan monitoring rebusan agar suhu tetap sesuai
 </details>
 
+- Pengalaman Kerja saya sebebagai berikut :
+<details>
+  <summary>Tambak Udang Vaname (Desember 2020 – Februari 2022) Teknisi Udang </summary>
+  - Melakukan pengecekan kualitas air pada tambak udang.
+  - Melakukan penginputan data pakan harian udang.
+  - Melakukan pengontrolan napsu makan udang.
+</details>
+
 ## Skills
-[Some test examples](#examples-of-my-test) that I have created with several methods.
+Some test examples that I have created with several methods.
 
 __Manual testing__
   * can perform manual functional and usability testing of web applications
