@@ -21,7 +21,7 @@ Saya Muhammad Budi Prasetyo, Sarjana Teknik Industri Universitas Telkom. Saya te
 </details>
 
 ## Skills
-[Some test examples](examples-of-my-test) that I have created with several methods.
+[Some test examples](Examples-of-my-test) that I have created with several methods.
 
 __Manual testing__
   * can perform manual functional and usability testing of web applications
@@ -40,5 +40,6 @@ __Automation testing__
 
 __Manual test on the ParaBank Website__
 - Test Case for login and transfer funds : [Google Sheets Document](https://docs.google.com/spreadsheets/d/1qcapyyGzFMAYoTFpgLn1GkEIL0Z59PGBJR0poqVPVl8/edit#gid=0)
+
 __Automation test on the ParaBank Website with Cucumber__
 - Test Case for login : [Github Repositories](https://github.com/PrasJr/Automation-Test-Parabank/actions/runs/4498234955/jobs/7914614474)
